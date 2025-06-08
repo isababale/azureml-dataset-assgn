@@ -1,0 +1,10 @@
+s/no,ML Algorithm,Coefficient_of_Determination R2
+1,Linear Regression(Online Gradient Descent),0.397798
+2,Linear Regression(Ordinary Least Squares),0.426662
+3,Boosted Decision Tree Regression,0.545974
+4,Decision Forest Regression,0.584444
+5,Poisson Regression,0.471944
+6,Linear Regression(Online Gradient Descent) with Normalization,0.411105
+7,Linear Regression(Ordinary Least Squares) with Normalization,0.42528
+8,Boosted Decision Tree Regression with Normalization,0.570757
+9,Decision Forest Regression with Normalization,0.587702
